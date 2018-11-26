@@ -1,0 +1,11 @@
+id,product_name,department_name,price,quantity
+1,iPhone,Electronics,555.55,100
+2,iPad,Electronics,999.99,10
+3,Galaxy,Electronics,255.55,152
+4,LG,Electronics,500.11,100
+5,Garmin,Electronics,500.99,1000
+6,Sunnto,Electronics,49.99,200
+7,Fitbit,Electronics,79.99,500
+8,xbox,Electronics,189.99,500
+9,playstation,Electronics,200.99,1000
+10,batteries,Electronics,1.99,300
